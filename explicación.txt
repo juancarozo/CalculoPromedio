@@ -1,0 +1,3 @@
+para crearnuevo alumno: index crear -n "Nombre" -m nota matemáticas -i nota ingles -p nota programación
+para ver alumnos ya cargados y su promedio index mostrar 
+para ver quienes tienen promedio mayor a 3 index mejores
